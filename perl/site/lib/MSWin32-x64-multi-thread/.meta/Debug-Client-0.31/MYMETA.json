@@ -1,0 +1,81 @@
+{
+   "abstract" : "debugger client side code for Padre, The Perl IDE.",
+   "author" : [
+      "Kevin Dawson <bowtie@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.16, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "Debug-Client",
+   "no_index" : {
+      "directory" : [
+         "eg",
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59",
+            "File::HomeDir" : "1",
+            "File::Temp" : "0.2304",
+            "List::Util" : "1.38",
+            "Test::CheckDeps" : "0.01",
+            "Test::Class" : "0.42",
+            "Test::Deep" : "0.112",
+            "Test::More" : "1.001003",
+            "Test::Requires" : "0.07",
+            "Win32" : "0.49",
+            "Win32::Process" : "0.16",
+            "parent" : "0.228",
+            "version" : "0.9908"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "recommends" : {
+            "ExtUtils::MakeMaker" : "6.66",
+            "File::Spec::Functions" : "3.4",
+            "List::Util" : "1.27",
+            "Test::Pod" : "1.48",
+            "Test::Pod::Coverage" : "1.08"
+         },
+         "requires" : {
+            "Carp" : "1.3301",
+            "Exporter" : "5.70",
+            "IO::Socket::IP" : "0.29",
+            "PadWalker" : "1.98",
+            "Term::ReadLine" : "1.14",
+            "constant" : "1.27",
+            "perl" : "5.010001"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/PadreIDE/Debug-Client/issues"
+      },
+      "homepage" : "https://github.com/PadreIDE/Debug-Client",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/PadreIDE/Debug-Client.git"
+      }
+   },
+   "version" : "0.31",
+   "x_serialization_backend" : "JSON::PP version 4.04"
+}

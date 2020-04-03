@@ -1,0 +1,22 @@
+{
+   "alien_build_version" : "2.15",
+   "cflags" : " ",
+   "cflags_static" : " ",
+   "ffi_name" : [
+      "crypto",
+      "ssl"
+   ],
+   "install_type" : "system",
+   "legacy" : {
+      "finished_installing" : 1,
+      "install_type" : "system",
+      "name" : "openssl",
+      "original_prefix" : "C:/Strawberry/perl/site/lib/auto/share/dist/Alien-OpenSSL",
+      "version" : "1.1.1d"
+   },
+   "libs" : "-lssl -lcrypto ",
+   "libs_static" : "-lssl -lcrypto -lz -lws2_32 -lgdi32 -lcrypt32 ",
+   "perl_module_version" : "0.10",
+   "prefix" : "C:/Strawberry/perl/site/lib/auto/share/dist/Alien-OpenSSL",
+   "version" : "1.1.1d"
+}

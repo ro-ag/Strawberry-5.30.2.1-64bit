@@ -1,0 +1,1 @@
+{"pathname":"M/MI/MITHALDU/PDF-WebKit-1.2.tar.gz","provides":{"PDF::WebKit":{"version":"1.2","file":"lib/PDF/WebKit.pm"},"PDF::WebKit::Source":{"file":"lib/PDF/WebKit/Source.pm"},"PDF::WebKit::Configuration":{"file":"lib/PDF/WebKit/Configuration.pm"}},"version":"1.2","name":"PDF::WebKit","target":"PDF::WebKit","dist":"PDF-WebKit-1.2"}

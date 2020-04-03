@@ -1,0 +1,1 @@
+{"target":"Padre::Plugin::PerlTidy","name":"Padre::Plugin::PerlTidy","version":"0.22","pathname":"A/AZ/AZAWAWI/Padre-Plugin-PerlTidy-0.22.tar.gz","provides":{"Padre::Plugin::PerlTidy":{"file":"lib/Padre/Plugin/PerlTidy.pm","version":"0.22"}},"dist":"Padre-Plugin-PerlTidy-0.22"}

@@ -1,0 +1,71 @@
+{
+   "abstract" : "Alien wrapper for OpenSSL",
+   "author" : [
+      "Johanna Amann <johanna@icir.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 7.24, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "Alien-OpenSSL",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Alien::Build::MM" : "1.30"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "Alien::Build" : "1.30",
+            "Alien::Build::MM" : "1.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Alien::Build" : "1.30"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/0xxon/alien-openssl/issues"
+      },
+      "homepage" : "https://github.com/0xxon/alien-openssl",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/0xxon/alien-openssl.git"
+      }
+   },
+   "version" : "0.10",
+   "x_alienfile" : {
+      "generated_by" : "Alien::Build::MM version 1.32",
+      "requires" : {
+         "share" : {
+            "Alien::Build::Plugin::Gather::IsolateDynamic" : "0.48",
+            "Archive::Tar" : "0",
+            "Config" : "0",
+            "HTML::LinkExtor" : "0",
+            "IO::Zlib" : "0",
+            "Sort::Versions" : "0",
+            "Test::More" : "0.96",
+            "Text::Template" : "0",
+            "URI" : "0",
+            "URI::Escape" : "0"
+         },
+         "system" : {}
+      }
+   },
+   "x_serialization_backend" : "JSON::PP version 4.04"
+}

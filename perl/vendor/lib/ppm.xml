@@ -1,0 +1,89 @@
+
+<PPMCONFIG>
+    
+<PPMVER>0,01_04,0,0</PPMVER>
+    
+<PLATFORM CPU="x64" OSVALUE="MSWin32" OSVERSION="4,0,0,0" />
+    
+<OPTIONS BUILDDIR="C:\Strawberry\ppm" CLEAN="1" CONFIRM="1" DOWNLOADSTATUS="16384" FORCEINSTALL="1" IGNORECASE="1" MORE="24" ROOT="" TRACE="0" TRACEFILE="PPM.LOG" VERBOSE="1" />
+    
+<REPOSITORY LOCATION="http://www.sisyphusion.tk/ppm" NAME="Sisyphusion" SUMMARYFILE="package.xml" />
+    
+<PPMPRECIOUS>Compress-Zlib;Archive-Tar;Digest-MD5;File-CounterFile;Font-AFM;HTML-Parser;HTML-Tree;MIME-Base64;URI;XML-Element;libwww-perl;XML-Parser;SOAP-Lite;PPM;libnet;libwin32</PPMPRECIOUS>
+
+<PACKAGE NAME="DBD-DB2">
+<LOCATION>.\</LOCATION>
+<INSTPACKLIST>C:\Strawberry\perl\site\lib\auto\DBD\DB2\.packlist</INSTPACKLIST>
+<INSTROOT>C:\Strawberry\perl</INSTROOT>
+<INSTDATE>Fri Apr  3 00:12:27 2020</INSTDATE>
+<INSTPPD>
+<SOFTPKG NAME="DBD-DB2" VERSION="1,86,0,0">
+<TITLE>DBD-DB2</TITLE>
+<ABSTRACT>Perl driver for IBM DB2 Universal Database</ABSTRACT>
+<AUTHOR>DB2 Perl (db2perl@ca.ibm.com)</AUTHOR>
+<IMPLEMENTATION>
+<CODEBASE HREF="DBD-DB2.tar.gz" />
+<INSTALL />
+<UNINSTALL /></IMPLEMENTATION></SOFTPKG></INSTPPD></PACKAGE>
+<PACKAGE NAME="ORLite">
+<LOCATION>.\</LOCATION>
+<INSTPACKLIST>C:\Strawberry\perl\site\lib\auto\ORLite\.packlist</INSTPACKLIST>
+<INSTROOT>C:\Strawberry\perl</INSTROOT>
+<INSTDATE>Fri Apr  3 00:12:37 2020</INSTDATE>
+<INSTPPD>
+<SOFTPKG NAME="ORLite" VERSION="1,98,0,0">
+<TITLE>ORLite</TITLE>
+<ABSTRACT>Extremely light weight SQLite-specific ORM</ABSTRACT>
+<AUTHOR>Adam Kennedy &lt;adamk@cpan.org&gt;</AUTHOR>
+<IMPLEMENTATION>
+<DEPENDENCY NAME="DBD-SQLite" VERSION="1,27,0,0" />
+<DEPENDENCY NAME="File-Remove" VERSION="1,40,0,0" />
+<DEPENDENCY NAME="DBI" VERSION="1,607,0,0" />
+<DEPENDENCY NAME="Params-Util" VERSION="1,00,0,0" />
+<CODEBASE HREF="ORLite.tar.gz" />
+<INSTALL />
+<UNINSTALL /></IMPLEMENTATION></SOFTPKG></INSTPPD></PACKAGE>
+<PACKAGE NAME="Wx">
+<LOCATION>.\</LOCATION>
+<INSTPACKLIST>C:\Strawberry\perl\site\lib\auto\Wx\.packlist</INSTPACKLIST>
+<INSTROOT>C:\Strawberry\perl</INSTROOT>
+<INSTDATE>Fri Apr  3 00:12:39 2020</INSTDATE>
+<INSTPPD>
+<SOFTPKG NAME="Wx" VERSION="0,9932,0,0">
+<TITLE>Wx</TITLE>
+<ABSTRACT>interface to the wxWidgets cross-platform GUI toolkit</ABSTRACT>
+<AUTHOR>Mattia Barbon &lt;mbarbon@cpan.org&gt;</AUTHOR>
+<IMPLEMENTATION>
+<DEPENDENCY NAME="Alien-wxWidgets" VERSION="0,25,0,0" />
+<CODEBASE HREF="Wx.tar.gz" />
+<INSTALL />
+<UNINSTALL /></IMPLEMENTATION></SOFTPKG></INSTPPD></PACKAGE>
+<PACKAGE NAME="Win32-GUI">
+<LOCATION>.\</LOCATION>
+<INSTPACKLIST>C:\Strawberry\perl\site\lib\auto\Win32\GUI\.packlist</INSTPACKLIST>
+<INSTROOT>C:\Strawberry\perl</INSTROOT>
+<INSTDATE>Fri Apr  3 00:12:41 2020</INSTDATE>
+<INSTPPD>
+<SOFTPKG NAME="Win32-GUI" VERSION="1,14,0,0">
+<TITLE>Win32-GUI</TITLE>
+<ABSTRACT>Perl-Win32 Graphical User Interface Extension</ABSTRACT>
+<AUTHOR>Aldo Calpini &lt;dada@perl.it&gt;</AUTHOR>
+<IMPLEMENTATION>
+<CODEBASE HREF="Win32-GUI.tar.gz" />
+<INSTALL />
+<UNINSTALL /></IMPLEMENTATION></SOFTPKG></INSTPPD></PACKAGE>
+<PACKAGE NAME="Alien-wxWidgets">
+<LOCATION>.\</LOCATION>
+<INSTPACKLIST>C:\Strawberry\perl\site\lib\auto\Alien\wxWidgets\.packlist</INSTPACKLIST>
+<INSTROOT>C:\Strawberry\perl</INSTROOT>
+<INSTDATE>Fri Apr  3 01:23:17 2020</INSTDATE>
+<INSTPPD>
+<SOFTPKG NAME="Alien-wxWidgets" VERSION="0,69,0,0">
+<TITLE>Alien-wxWidgets</TITLE>
+<ABSTRACT>building, finding and using wxWidgets binaries</ABSTRACT>
+<AUTHOR>Mattia Barbon &lt;mbarbon@cpan.org&gt;</AUTHOR>
+<IMPLEMENTATION>
+<DEPENDENCY NAME="Module-Pluggable" VERSION="2,6,0,0" />
+<CODEBASE HREF="Alien-wxWidgets.tar.gz" />
+<INSTALL />
+<UNINSTALL /></IMPLEMENTATION></SOFTPKG></INSTPPD></PACKAGE></PPMCONFIG>

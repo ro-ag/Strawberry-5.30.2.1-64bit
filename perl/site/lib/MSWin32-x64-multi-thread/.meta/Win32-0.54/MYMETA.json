@@ -1,0 +1,48 @@
+{
+   "abstract" : "Interfaces to some Win32 API Functions",
+   "author" : [
+      "Jan Dubois <jan@jandubois.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Jan Dubois, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "Win32",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "perl" : "5.006"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/perl-libwin32/win32/issues"
+      },
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "https://github.com/perl-libwin32/win32"
+      },
+      "x_MailingList" : "https://www.nntp.perl.org/group/perl.libwin32/"
+   },
+   "version" : "0.54",
+   "x_serialization_backend" : "JSON::PP version 4.04"
+}

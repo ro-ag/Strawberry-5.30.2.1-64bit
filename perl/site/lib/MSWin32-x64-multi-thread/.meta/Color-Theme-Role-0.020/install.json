@@ -1,0 +1,1 @@
+{"pathname":"P/PE/PERLANCAR/Color-Theme-Role-0.020.tar.gz","provides":{"Color::Theme::Role::ANSI":{"file":"lib/Color/Theme/Role/ANSI.pm","version":"0.020"},"Color::Theme::Role":{"file":"lib/Color/Theme/Role.pm","version":"0.020"}},"version":"0.020","name":"Color::Theme::Role","dist":"Color-Theme-Role-0.020","target":"Color::Theme::Role::ANSI"}

@@ -1,0 +1,1 @@
+{"target":"Alien::OpenSSL","pathname":"J/JO/JOHANNA/Alien-OpenSSL-0.10.tar.gz","name":"Alien::OpenSSL","version":"0.10","dist":"Alien-OpenSSL-0.10","provides":{"Alien::OpenSSL":{"file":"lib/Alien/OpenSSL.pm","version":"0.10"}}}

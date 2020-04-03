@@ -1,0 +1,10 @@
+C:\Strawberry\perl\site\lib\PPIx\EditorTools.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\FindUnmatchedBrace.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\FindVariableDeclaration.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\IntroduceTemporaryVariable.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\Lexer.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\Outline.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\RenamePackage.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\RenamePackageFromPath.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\RenameVariable.pm
+C:\Strawberry\perl\site\lib\PPIx\EditorTools\ReturnObject.pm

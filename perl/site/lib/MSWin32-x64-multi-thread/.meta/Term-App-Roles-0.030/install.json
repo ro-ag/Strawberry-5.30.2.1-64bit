@@ -1,0 +1,1 @@
+{"pathname":"P/PE/PERLANCAR/Term-App-Roles-0.030.tar.gz","provides":{"Term::App::Role::Attrs":{"file":"lib/Term/App/Role/Attrs.pm","version":"0.030"},"Term::App::Roles":{"file":"lib/Term/App/Roles.pm","version":"0.030"}},"version":"0.030","name":"Term::App::Roles","target":"Term::App::Role::Attrs","dist":"Term-App-Roles-0.030"}

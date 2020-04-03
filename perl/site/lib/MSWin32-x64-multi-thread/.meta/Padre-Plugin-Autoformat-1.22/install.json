@@ -1,0 +1,1 @@
+{"version":"1.22","pathname":"A/AZ/AZAWAWI/Padre-Plugin-Autoformat-1.22.tar.gz","dist":"Padre-Plugin-Autoformat-1.22","provides":{"Padre::Plugin::Autoformat":{"file":"lib/Padre/Plugin/Autoformat.pm","version":"1.22"}},"name":"Padre::Plugin::Autoformat","target":"Padre::Plugin::Autoformat"}

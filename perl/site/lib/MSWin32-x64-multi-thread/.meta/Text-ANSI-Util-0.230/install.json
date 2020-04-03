@@ -1,0 +1,1 @@
+{"pathname":"P/PE/PERLANCAR/Text-ANSI-Util-0.230.tar.gz","version":"0.230","provides":{"Text::ANSI::BaseUtil":{"file":"lib/Text/ANSI/BaseUtil.pm","version":"0.230"},"Text::ANSI::Util":{"file":"lib/Text/ANSI/Util.pm","version":"0.230"}},"name":"Text::ANSI::Util","dist":"Text-ANSI-Util-0.230","target":"Text::ANSI::BaseUtil"}

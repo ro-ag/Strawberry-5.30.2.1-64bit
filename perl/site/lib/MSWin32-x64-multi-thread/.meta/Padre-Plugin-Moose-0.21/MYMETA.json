@@ -1,0 +1,59 @@
+{
+   "abstract" : "Moose, Mouse and MooseX::Declare support for Padre",
+   "author" : [
+      "Ahmad M. Zawawi <ahmad.zawawi@gmail.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "Padre-Plugin-Moose",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "share",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59",
+            "Locale::Msgfmt" : "0.15",
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Moose" : "2.0402",
+            "Padre" : "0.94",
+            "perl" : "5.008"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://padre.perlide.org/"
+      },
+      "homepage" : "http://padre.perlide.org/trac/wiki/PadrePluginMoose",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://svn.perlide.org/padre/trunk/Padre-Plugin-Moose"
+      }
+   },
+   "version" : "0.21",
+   "x_serialization_backend" : "JSON::PP version 4.04"
+}

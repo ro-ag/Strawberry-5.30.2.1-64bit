@@ -1,0 +1,1 @@
+{"name":"Border::Style","target":"Border::Style::Role","dist":"Border-Style-0.01","pathname":"P/PE/PERLANCAR/Border-Style-0.01.tar.gz","provides":{"Border::Style":{"file":"lib/Border/Style.pm","version":"0.01"},"Border::Style::Role":{"version":"0.01","file":"lib/Border/Style/Role.pm"}},"version":"0.01"}
