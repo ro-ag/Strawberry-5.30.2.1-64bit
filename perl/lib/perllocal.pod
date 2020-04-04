@@ -12780,3 +12780,289 @@ C<EXE_FILES: script/padre>
 
 =back
 
+=head2 Sat Apr  4 04:30:30 2020: C<Module> L<Log::Log4perl|Log::Log4perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.47>
+
+=item *
+
+C<EXE_FILES: eg/l4p-tmpl>
+
+=back
+
+=head2 Sat Apr  4 04:30:49 2020: C<Module> L<Net::SSLeay|Net::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.85>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:30:55 2020: C<Module> L<Modern::Open|Modern::Open>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:31:14 2020: C<Module> L<Lingua::EN::Inflect|Lingua::EN::Inflect>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.904>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:31:21 2020: C<Module> L<Pod::Spell|Pod::Spell>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20>
+
+=item *
+
+C<EXE_FILES: bin/podspell>
+
+=back
+
+=head2 Sat Apr  4 04:31:25 2020: C<Module> L<B::Keywords|B::Keywords>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:31:31 2020: C<Module> L<Config::Tiny|Config::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:31:41 2020: C<Module> L<String::Format|String::Format>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:32:40 2020: C<Module> L<Devel::Caller|Devel::Caller>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:32:43 2020: C<Module> L<Devel::LexAlias|Devel::LexAlias>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:32:47 2020: C<Module> L<Lexical::Persistence|Lexical::Persistence>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.023>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr  4 04:32:51 2020: C<Module> L<Perl::Shell|Perl::Shell>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: script/perlcmd>
+
+=back
+
+=head2 Sat Apr  4 04:35:45 2020: C<Module> L<Padre|Padre>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Strawberry\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: script/padre>
+
+=back
+

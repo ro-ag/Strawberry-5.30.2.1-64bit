@@ -1,0 +1,1 @@
+{"dist":"Pod-Spell-1.20","pathname":"D/DO/DOLMEN/Pod-Spell-1.20.tar.gz","target":"Pod::Spell","provides":{"Pod::Wordlist":{"file":"lib/Pod/Wordlist.pm","version":"1.20"},"Pod::Spell":{"file":"lib/Pod/Spell.pm","version":"1.20"}},"version":"1.20","name":"Pod::Spell"}
